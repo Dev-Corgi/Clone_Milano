@@ -1,0 +1,15 @@
+.playvideobutton{
+    position: absolute;
+    left: 92.48%;
+    right: 3.36%;
+    top: 41.75%;
+    bottom: 42.06%;
+    
+    font-family: 'PP Neue Montreal';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    
+    color: #FFFFFF;
+}

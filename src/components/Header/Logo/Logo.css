@@ -1,0 +1,65 @@
+.logo{
+    position: absolute;
+    left: 46.56%;
+    right: 46.52%;
+    top: 28.12%;
+    bottom: 28.43%;
+}
+
+.top{
+    position: absolute;
+width: 20px;
+height: 11px;
+left: calc(50% - 20px/2);
+top: calc(50% - 11px/2 - 20px);
+
+font-family: 'PP Neue Montreal';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.center{
+    position: absolute;
+    width: 118px;
+    height: 42px;
+    left: calc(50% - 118px/2);
+    top: calc(50% - 42px/2 - 0.5px);
+    
+    font-family: 'PP Neue Montreal';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 42px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.bottom{
+    position: absolute;
+    width: 37px;
+    height: 12px;
+    left: calc(50% - 37px/2 - 0.5px);
+    top: calc(50% - 12px/2 + 19.5px);
+    
+    font-family: 'PP Neue Montreal';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 12px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: -0.04em;
+    
+    color: #FFFFFF;
+}

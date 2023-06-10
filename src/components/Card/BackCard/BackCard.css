@@ -1,0 +1,14 @@
+.backcard{
+    position: absolute;
+    left: 22.27%;
+    right: 22.27%;
+    top: 12.86%;
+    bottom:-8%;
+    background: rgba(0, 0, 0, 0.15);
+    z-index: 2;
+    -webkit-clip-path: inset(0px round 32.103px);
+    clip-path: inset(0px round 32.103px);
+    }
+
+
+    

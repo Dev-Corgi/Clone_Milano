@@ -1,0 +1,40 @@
+.pointercircle1{
+    border-radius: 50%;
+    position: absolute;
+    width: 38px;
+    height: 38px;
+    left: -19px;
+    top:-19px;
+    /* justify-content: 'center'; */
+    background: #C8F325;
+    border: 0.3px solid #FDEBEB;
+    z-index: 10;
+}
+
+.pointercircle2{
+    border-radius: 50%;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: -15px;
+    top:-15px;
+    /* justify-content: 'center'; */
+    background: #C8F325;
+    border: 0.5px solid #FDEBEB;
+    filter: blur(0.75px);
+    z-index: 10;
+}
+
+.pointercircle3{
+    border-radius: 50%;
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: -9px;
+    top: -9px;
+    /* justify-content: 'center'; */
+    background: #CBF628;
+    border: 2px solid #FDEBEB;
+    filter: blur(3px);
+    z-index: 10;
+}

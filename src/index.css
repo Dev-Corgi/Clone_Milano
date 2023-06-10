@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+    overflow: hidden;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "PPMigra-Italic";
+  src: local("PPMigra-Italic"),
+   url("./fonts/PPMigra-Italic.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "PPMigra-Regular";
+    src: local("PPMigra-Regular"),
+     url("./fonts/PPMigra-Regular.ttf") format("truetype");
+    }
+
+    @font-face {
+      font-family: "PPNeueMontreal-Regular";
+      src: local("PPNeueMontreal-Regular"),
+       url("./fonts/PPNeueMontreal-Regular.ttf") format("truetype");
+      }
+    

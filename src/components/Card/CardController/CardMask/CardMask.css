@@ -1,0 +1,9 @@
+.cardmask{
+    position: absolute;
+    top: 20.945%;
+    right:11.255%;
+    left:11.255%;
+    bottom:-53.866%;
+    -webkit-clip-path: inset(0px round 32.103px);
+    clip-path: inset(0px round 32.103px);
+    }

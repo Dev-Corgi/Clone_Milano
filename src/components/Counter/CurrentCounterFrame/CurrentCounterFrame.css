@@ -1,0 +1,8 @@
+.currentcounterframe{
+    position: absolute;
+    left: 3.34%;
+    right: 95.5%;
+    top: 60.28%;
+    bottom: 31.68%;
+    clip-path: polygon(3.34% 37.91%, 95.5% 37.91%, 95.5% 60.48%, 3.34% 60.48%);
+}

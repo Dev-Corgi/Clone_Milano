@@ -1,0 +1,12 @@
+.pointercircle0{
+    border-radius: 50%;
+    position: absolute;
+    width: 9px;
+    height: 9px;
+    left: 9px;
+    top: 9px;
+    background: #C8F325;
+    z-index: 9;
+
+}
+
